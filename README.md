@@ -1,1 +1,1 @@
-# Password-Generatir---JS
+# Password-Generator-JS
